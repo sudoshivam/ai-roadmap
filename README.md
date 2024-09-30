@@ -23,7 +23,7 @@
 	- [tools_pandas.ipynb - Colab (google.com)](https://colab.research.google.com/github/ageron/handson-ml3/blob/main/tools_pandas.ipynb) Google colab notebook with pandas tutorial(Recommended)
 - Explore data visualization with Matplotlib or Seaborn
 	- [Codebasics - Matplotlib tutorial - YouTube](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl)
-	- [tools_matplotlib.ipynb - Colab (google.com)](https://colab.research.google.com/github/ageron/handson-ml3/blob/main/tools_matplotlib.ipynb)  Google colab notebook with pandas tutorial (Recommended)
+	- [tools_matplotlib.ipynb - Colab (google.com)](https://colab.research.google.com/github/ageron/handson-ml3/blob/main/tools_matplotlib.ipynb)  Google colab notebook with matplotlib tutorial (Recommended)
 	
 ** You can download or copy the given google colab notebooks in your own colab account. 
   
