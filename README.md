@@ -90,6 +90,7 @@
 ## 4. Deep Learning Fundamentals
 
 - Understand neural networks basics
+   	- [Nvidia Deep Learning Institute - Building A Brain in 10 Minutes](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu) (This notebook explores the biological and psychological inspirations to the world's first neural networks.)
 	- [Rajat Dandekar - Building Neural Networks from Scratch - YouTube](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu) (Recommended)
 	- [3Blue1Brown - Neural networks - YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (You can watch this series for understanding the intuition behind Neural Networks)
 
